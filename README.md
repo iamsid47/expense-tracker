@@ -2,8 +2,10 @@
 name: 'Expense Tracker'
 description: 'A command line based expense tracker using Python'
 author: '@iamsid47'
-img: https://github.com/iamsid47/hangman-pics/blob/main/hangman.png
+img: https://github.com/iamsid47/hangman-pics/blob/main/Expen%24e%20Tracker.png
 ---
+
+![Expense Tracker](https://github.com/iamsid47/hangman-pics/blob/main/Expen%24e%20Tracker.png)
 
 ## Expense Tracker Using Python
 
@@ -11,7 +13,7 @@ img: https://github.com/iamsid47/hangman-pics/blob/main/hangman.png
 
 This will be a simple command line game made using Python, that will allow user input and also put a visual of the current Hangman along the word that's being guessed at every turn!
 
-The completed project can be found by clicking [Here]()
+The completed project can be found by clicking [Here](https://repl.it/@iamsid47/expense-tracker#main.py)
 
 ## Files
 
@@ -20,6 +22,8 @@ We are going to be having two main files. First, `main.py` and the second one is
 ## Let's Get Started
 
 So, the first thing we need to do is head over to [Repl.it](https://repl.it) and create a *repl*. Choose the language as **Python** and name your project. I'm gonna name mine as **expense-tracker**.
+
+![Project Creation](https://github.com/iamsid47/hangman-pics/blob/main/expense-tracker.png)
 
 Now we need to install the libraries. For this, go onto the **Shell** and type in:
 
@@ -123,6 +127,8 @@ Here, we if the user presses **V**, we retrieve the the data from `expenses.json
 
 ## Voila!
 
+![You Did It](https://media.giphy.com/media/3otPoS81loriI9sO8o/giphy.gif)
+
 You did it! An expense tracker of your own!
 
 ## Hack It ;)
@@ -132,3 +138,10 @@ Further improvements for this project are just endless. You can add in more inpu
 As a topping, you can add in more fields like *interest on purchase, cashbacks, rebates, donations, etc.*
 
 You can even make it so awesome that you create an API for this, merge it with a chrome extension which tracks all your purchases and host this script on a server. So, whenever you make a purchase, the whole thing get's sent over to the expense-tracker and it puts all of the data into a .json file!
+
+## How it works?
+
+![How it starts](https://github.com/iamsid47/hangman-pics/blob/main/how%20it%20works.png)
+![How it works](https://github.com/iamsid47/hangman-pics/blob/main/how%20it%20works%20-2.png)
+
+
